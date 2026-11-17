@@ -1,3 +1,3 @@
 <?php
-    echo "Hello Devs, this is a testing file.";
+    echo "Hello Developers, this is a testing file.";
 ?>
