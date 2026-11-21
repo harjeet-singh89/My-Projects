@@ -7,4 +7,12 @@
     }
 
     echo "Today, the date is : " . getDate();
+
+    function showName($name){
+        echo "My name is " . $name;
+    }
+
+    $my_name = "Harjee";
+    showname($my_name);
+
 ?>
